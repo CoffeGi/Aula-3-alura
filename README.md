@@ -2,6 +2,8 @@
 
 ## Este codigo NÃO é criação minha é apenas para a aula
 
+## Codigo exemplo :
+
 let objeto;
 let padrao;
 let fonte;
